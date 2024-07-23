@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
