@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0001-two-sum) |
+| [2058-concatenation-of-array](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0577-employee-bonus) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
