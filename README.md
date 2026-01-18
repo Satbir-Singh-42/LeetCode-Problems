@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0001-two-sum) |
 | [1920-build-array-from-permutation](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Database
 |  |
 | ------- |
@@ -37,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
