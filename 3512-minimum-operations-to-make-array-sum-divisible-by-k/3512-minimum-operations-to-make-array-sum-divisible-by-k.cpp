@@ -5,6 +5,7 @@ public:
         for(int x:nums){
             sum+=x;
         }
-        return sum%k;
+        int ans =sum%k;
+        return ans;
     }
 };
