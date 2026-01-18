@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
+| [2942-find-words-containing-character](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/3668-restore-finishing-order) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 ## Database
 |  |
 | ------- |
