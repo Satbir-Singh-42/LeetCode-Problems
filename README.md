@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0001-two-sum) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 ## Database
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
