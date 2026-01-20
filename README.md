@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0027-remove-element) |
 | [1512-number-of-good-pairs](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
