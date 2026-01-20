@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0485-max-consecutive-ones](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Satbir-Singh-42/LeetCode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
