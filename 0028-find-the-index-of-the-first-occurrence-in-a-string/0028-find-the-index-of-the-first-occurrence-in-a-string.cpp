@@ -14,7 +14,7 @@ public:
             }
 
             if (j == m) {
-                return i;   // full match found
+                return i;  
             }
         }
         return -1;
