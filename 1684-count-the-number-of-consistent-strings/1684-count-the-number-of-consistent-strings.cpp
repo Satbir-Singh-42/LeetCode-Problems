@@ -3,21 +3,18 @@ public:
     int countConsistentStrings(string allowed, vector<string>& words) {
         int count = 0;
 
-        for (string word : words) {
-            bool isConsistent = true;
+        for (int i = 0; i < words.size(); i++) {
+            bool ok = true;
 
-            for (char c : word) {
-                if (allowed.find(c) == string::npos) {
-                    isConsistent = false;
+            for (int j = 0; j < words[i].size(); j++) {
+                if (allowed.find(words[i][j]) == string::npos) {
+                    ok = false;
                     break;
                 }
             }
 
-            if (isConsistent) {
-                count++;
-            }
+            if (ok) count++;
         }
-
         return count;
     }
 };
