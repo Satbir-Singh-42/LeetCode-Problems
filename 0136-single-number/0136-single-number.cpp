@@ -12,6 +12,6 @@ public:
                 return nums[i];
             }
         }
-        return -1; // if not found
+        return 0; // if not found
     }
 };
